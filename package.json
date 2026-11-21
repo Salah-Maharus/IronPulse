@@ -1,0 +1,8 @@
+{
+  "name": "ironpulse",
+  "version": "1.0.0",
+  "description": "Progressive Overload Training Log",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  }
+}
